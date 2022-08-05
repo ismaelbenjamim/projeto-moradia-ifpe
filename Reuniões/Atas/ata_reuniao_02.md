@@ -1,4 +1,4 @@
-# Projeto de Modaria Estudantil
+# Projeto de Moradia Estudantil
 
 
 ## Ata de Reunião
@@ -9,7 +9,7 @@ Data         | Local
 
 
 ### Participantes
-* Bárbara Mirela (Assistente Social do IFPE)
+* Bárbara Mirela (Assistente Social do IFPE Campus Recife)
 * Barbara Vaz
 * Henrique Gomes
 * Ismael Benjamim
