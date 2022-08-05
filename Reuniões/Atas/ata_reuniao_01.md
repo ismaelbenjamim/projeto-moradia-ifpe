@@ -1,4 +1,4 @@
-# Projeto de Modaria Estudantil
+# Projeto de Moradia Estudantil
 
 
 ## Ata de Reunião
@@ -13,7 +13,7 @@ Data         | Local
 * Liliane Carla
 * Marco Antônio
 * Vinícius Oliveira
-* Bárbara Mirela (Assistente Social do IFPE)
+* Bárbara Mirela (Assistente Social do IFPE Campus Recife)
 
 ### Objetivos
 * Entender melhor o funcionamento dos programas de assistência
