@@ -3,7 +3,7 @@
   <img src="https://i.imgur.com/JUAzsa0.jpg" alt="Animavita" width="400px" style="border-radius: 25px;">
   <br><br>
   <img src="https://i.imgur.com/HDqKIG4.png" alt="Animavita" width="500px">
-  <br>
+  <br><br>
 </h1>
 
 <p align="center">Projeto desenvolvido para solucionar uma problemática do atual Programa de Moradia Estudantil do Instituto Federal de Educação, Ciência e Tecnologia de Pernambuco.</p>
