@@ -10,11 +10,11 @@
 <p align="center"><i>"É divertido fazer o impossível, pois lá a concorrência é menor." - Walt Disney</i> </p>
 
 <p align="center">
-  <a href="">Visão geral do projeto</a> •
-  <a href="">Sistemas de Gestão Empresarial</a> •
-  <a href="">Gestão de Processos de Negócio</a> •
-  <a href="">Planejamento e Gerenciamento de Projetos</a> •
-  <a href="">Contribuidores</a>
+  <a href="#page_facing_up-vis%C3%A3o-geral-do-projeto">Visão geral do projeto</a> •
+  <a href="#">Sistemas de Gestão Empresarial</a> •
+  <a href="#">Gestão de Processos de Negócio</a> •
+  <a href="#">Planejamento e Gerenciamento de Projetos</a> •
+  <a href="#raising_hand-contribuidores">Contribuidores</a>
 </p>
 
 ## :page_facing_up: **Visão geral do projeto**
