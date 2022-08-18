@@ -21,6 +21,7 @@
 ## :page_facing_up: **Visão geral do projeto**
 
 -   [Kickoff](https://github.com/ismaelbenjamim/projeto-moradia-ifpe/tree/main/Kickoff)
+-   [Primeiro Status Report](https://github.com/ismaelbenjamim/projeto-moradia-ifpe/tree/main/Primeiro%20Status%20Report)
 -   [Reuniões](https://github.com/ismaelbenjamim/projeto-moradia-ifpe/tree/main/Reuniões)
 -   [SGE](https://github.com/ismaelbenjamim/projeto-moradia-ifpe/tree/main/SGE)
 -   [PGP](https://github.com/ismaelbenjamim/projeto-moradia-ifpe/tree/main/PGP)
