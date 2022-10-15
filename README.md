@@ -12,6 +12,7 @@
 
 <p align="center">
   <a href="#page_facing_up-vis%C3%A3o-geral-do-projeto">Visão geral do projeto</a> •
+  <a href="#computer-Prototipo">Protótipo</a> •
   <a href="#">Sistemas de Gestão Empresarial</a> •
   <a href="#">Gestão de Processos de Negócio</a> •
   <a href="#">Planejamento e Gerenciamento de Projetos</a> •
@@ -28,6 +29,17 @@
 -   [SGE](https://github.com/ismaelbenjamim/projeto-moradia-ifpe/tree/main/SGE)
 -   [PGP](https://github.com/ismaelbenjamim/projeto-moradia-ifpe/tree/main/PGP)
 -   [GPN](https://github.com/ismaelbenjamim/projeto-moradia-ifpe/tree/main/GPN)
+
+## :computer: **Prototipo**
+
+- [Prototipo completo](https://www.figma.com/file/BWHjiRKMGE1IupBm5Uel70/Sistema-Moradia?node-id=0%3A1)
+
+<img src="https://i.imgur.com/rUhFq4c.png" alt="login">
+<img src="https://i.imgur.com/XHPTr8Y.png" alt="dashboard">
+<img src="https://i.imgur.com/Y27vgJR.png" alt="guia">
+<img src="https://i.imgur.com/CoQzzcB.png" alt="lista-alunos">
+<img src="https://i.imgur.com/Mqoo7WF.png" alt="aluno">
+<img src="https://i.imgur.com/Lrph70n.png" alt="resultado">
 
 ## :raising_hand: **Contribuidores**
 
