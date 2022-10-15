@@ -24,7 +24,7 @@
 -   [Kickoff](https://github.com/ismaelbenjamim/projeto-moradia-ifpe/tree/main/Kickoff)
 -   [Primeiro Status Report](https://github.com/ismaelbenjamim/projeto-moradia-ifpe/tree/main/Primeiro%20Status%20Report)
 -   [Segundo Status Report](https://github.com/ismaelbenjamim/projeto-moradia-ifpe/tree/main/Segundo%20Status%20Report)
--   [Entrega final](https://github.com/ismaelbenjamim/projeto-moradia-ifpe/tree/main/Entrega%20Final)
+-   [Entrega final](https://github.com/ismaelbenjamim/projeto-moradia-ifpe/tree/main/Entrega%20final)
 -   [Reuniões](https://github.com/ismaelbenjamim/projeto-moradia-ifpe/tree/main/Reuniões)
 -   [SGE](https://github.com/ismaelbenjamim/projeto-moradia-ifpe/tree/main/SGE)
 -   [PGP](https://github.com/ismaelbenjamim/projeto-moradia-ifpe/tree/main/PGP)
